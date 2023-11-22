@@ -94,9 +94,9 @@
             lblFechaActual.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             lblFechaActual.Location = new Point(358, 12);
             lblFechaActual.Name = "lblFechaActual";
-            lblFechaActual.Size = new Size(133, 28);
+            lblFechaActual.Size = new Size(111, 28);
             lblFechaActual.TabIndex = 1;
-            lblFechaActual.Text = "Fecha Actual";
+            lblFechaActual.Text = "Dia Actual";
             // 
             // txtFechaActual
             // 
@@ -306,6 +306,7 @@
             gbInformacionPacientes.TabIndex = 0;
             gbInformacionPacientes.TabStop = false;
             gbInformacionPacientes.Text = "Información de Pacientes";
+            gbInformacionPacientes.Enter += gbInformacionPacientes_Enter;
             // 
             // txtOtro
             // 
@@ -549,6 +550,7 @@
             txtNombre.Name = "txtNombre";
             txtNombre.Size = new Size(125, 30);
             txtNombre.TabIndex = 1;
+            txtNombre.TextChanged += txtNombre_TextChanged;
             // 
             // lblNombre
             // 

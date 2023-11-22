@@ -155,5 +155,15 @@ namespace Covid_19_2
         {
 
         }
+
+        private void gbInformacionPacientes_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

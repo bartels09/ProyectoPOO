@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Freddy\\repos\\Covid-19-2\\Covid-19-2.csproj",
+      "projectUniqueName": "D:\\Freddy\\repos\\ProyectoPOO\\Covid-19-2.csproj",
       "projectName": "Covid-19-2",
-      "projectPath": "D:\\Freddy\\repos\\Covid-19-2\\Covid-19-2.csproj",
+      "projectPath": "D:\\Freddy\\repos\\ProyectoPOO\\Covid-19-2.csproj",
       "packagesPath": "C:\\Users\\Freddy\\.nuget\\packages\\",
-      "outputPath": "D:\\Freddy\\repos\\Covid-19-2\\obj\\",
+      "outputPath": "D:\\Freddy\\repos\\ProyectoPOO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

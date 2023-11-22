@@ -150,5 +150,10 @@ namespace Covid_19_2
                 Application.Exit();
             }
         }
+
+        private void lblTitulo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -83,9 +83,10 @@
             lblTitulo.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
             lblTitulo.Location = new Point(14, 12);
             lblTitulo.Name = "lblTitulo";
-            lblTitulo.Size = new Size(350, 32);
+            lblTitulo.Size = new Size(179, 32);
             lblTitulo.TabIndex = 0;
-            lblTitulo.Text = "DIAGNOSTICO DE PACIENTES";
+            lblTitulo.Text = "DIAGNOSTICO";
+            lblTitulo.Click += lblTitulo_Click;
             // 
             // lblFechaActual
             // 

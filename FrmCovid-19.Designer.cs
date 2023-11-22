@@ -550,6 +550,7 @@
             txtNombre.Name = "txtNombre";
             txtNombre.Size = new Size(125, 30);
             txtNombre.TabIndex = 1;
+            txtNombre.TextChanged += txtNombre_TextChanged;
             // 
             // lblNombre
             // 

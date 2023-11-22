@@ -1,0 +1,16 @@
+D:\Freddy\repos\Covid-19-2\bin\Debug\net6.0-windows\Covid-19-2.exe
+D:\Freddy\repos\Covid-19-2\bin\Debug\net6.0-windows\Covid-19-2.deps.json
+D:\Freddy\repos\Covid-19-2\bin\Debug\net6.0-windows\Covid-19-2.runtimeconfig.json
+D:\Freddy\repos\Covid-19-2\bin\Debug\net6.0-windows\Covid-19-2.dll
+D:\Freddy\repos\Covid-19-2\bin\Debug\net6.0-windows\Covid-19-2.pdb
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid_19_2.FrmCovid19.resources
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.csproj.GenerateResource.cache
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.AssemblyInfoInputs.cache
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.AssemblyInfo.cs
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.csproj.CoreCompileInputs.cache
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.dll
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\refint\Covid-19-2.dll
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.pdb
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\Covid-19-2.genruntimeconfig.cache
+D:\Freddy\repos\Covid-19-2\obj\Debug\net6.0-windows\ref\Covid-19-2.dll
